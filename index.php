@@ -65,7 +65,7 @@ if(isset($_POST['submit'])){
 <section class="home" id="home">
 
     <div class="image">
-        <img src="image/home-img.svg" alt="">
+        <img src="home-img.svg" alt="">
     </div>
 
     <div class="content">
@@ -119,7 +119,7 @@ if(isset($_POST['submit'])){
     <div class="row">
 
         <div class="image">
-            <img src="image/about-img.svg" alt="">
+            <img src="about-img.svg" alt="">
         </div>
 
         <div class="content">
@@ -202,7 +202,7 @@ if(isset($_POST['submit'])){
     <div class="box-container">
 
         <div class="box">
-            <img src="image/doc-1.jpg" alt="">
+            <img src="doc-1.jpg" alt="">
             <h3>Fatma Yılmaz</h3>
             <span>expert Gastroenterology</span>
             <div class="share">
@@ -215,7 +215,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/doc-2.jpg" alt="">
+            <img src="doc-2.jpg" alt="">
             <h3>Mustafa Demir</h3>
             <span>expert Neurology</span>
             <div class="share">
@@ -227,7 +227,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/doc-3.jpg" alt="">
+            <img src="doc-3.jpg" alt="">
             <h3>Elif Çelik</h3>
             <span>expert Orthopedics</span>
             <div class="share">
@@ -239,7 +239,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/doc-4.jpg" alt="">
+            <img src="doc-4.jpg" alt="">
             <h3>Hande Tekin</h3>
             <span>expert Cardiology</span>
             <div class="share">
@@ -251,7 +251,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/doc-5.jpg" alt="">
+            <img src="doc-5.jpg" alt="">
             <h3>Can Yılmaz</h3>
             <span>expert Oncology</span>
             <div class="share">
@@ -263,7 +263,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/doc-6.jpg" alt="">
+            <img src="doc-6.jpg" alt="">
             <h3>Yusuf Öztürk</h3>
             <span>expert Gastroenterology</span>
             <div class="share">
@@ -275,7 +275,7 @@ if(isset($_POST['submit'])){
             </div>
         </div>
         <div class="box">
-            <img src="image/doc-7.jpg" alt="">
+            <img src="doc-7.jpg" alt="">
             <h3>Zeynep Demir</h3>
             <span>intern doctor</span>
             <div class="share">
@@ -286,7 +286,7 @@ if(isset($_POST['submit'])){
             </div>
         </div>
         <div class="box">
-            <img src="image/doc-8.jpg" alt="">
+            <img src="doc-8.jpg" alt="">
             <h3>İbrahim Arslan</h3>
             <span>expert Neurology</span>
             <div class="share">
@@ -297,7 +297,7 @@ if(isset($_POST['submit'])){
             </div>
         </div>
         <div class="box">
-            <img src="image/doc-9.jpg" alt="">
+            <img src="doc-9.jpg" alt="">
             <h3>Hüseyin Aksoy</h3>
             <span>expert Cardiology</span>
             <div class="share">
@@ -323,7 +323,7 @@ if(isset($_POST['submit'])){
     <div class="row">
 
         <div class="image">
-            <img src="image/appointment-img.svg" alt="">
+            <img src="appointment-img.svg" alt="">
         </div>
 
         <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
@@ -359,7 +359,7 @@ if(isset($_POST['submit'])){
     <div class="box-container">
 
         <div class="box">
-            <img src="image/pic-1.jpg" alt="">
+            <img src="pic-1.jpg" alt="">
             <h3>Aman</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -372,7 +372,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/IMG_20220316_173059.jpg" alt="">
+            <img src="IMG_20220316_173059.jpg" alt="">
             <h3>Aryan </h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -385,7 +385,7 @@ if(isset($_POST['submit'])){
         </div>
 
         <div class="box">
-            <img src="image/IMG_20220805_110344_907.jpg" alt="">
+            <img src="IMG_20220805_110344_907.jpg" alt="">
             <h3>ryzo </h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
@@ -413,7 +413,7 @@ if(isset($_POST['submit'])){
 
         <div class="box">
             <div class="image">
-                <img src="image/blog-1.jpg" alt="">
+                <img src="blog-1.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
@@ -428,7 +428,7 @@ if(isset($_POST['submit'])){
 
         <div class="box">
             <div class="image">
-                <img src="image/blog-2.jpg" alt="">
+                <img src="blog-2.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
@@ -443,7 +443,7 @@ if(isset($_POST['submit'])){
 
         <div class="box">
             <div class="image">
-                <img src="image/blog-3.jpg" alt="">
+                <img src="blog-3.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
@@ -457,7 +457,7 @@ if(isset($_POST['submit'])){
         </div>
         <div class="box">
             <div class="image">
-                <img src="image/blog-4.jpg" alt="">
+                <img src="blog-4.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
@@ -471,7 +471,7 @@ if(isset($_POST['submit'])){
         </div>
         <div class="box">
             <div class="image">
-                <img src="image/blog-5.jpg" alt="">
+                <img src="blog-5.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
@@ -485,7 +485,7 @@ if(isset($_POST['submit'])){
         </div>
         <div class="box">
             <div class="image">
-                <img src="image/blog-6.jpg" alt="">
+                <img src="blog-6.jpg" alt="">
             </div>
             <div class="content">
                 <div class="icon">
